@@ -1,0 +1,2 @@
+rootProject.name = "Simulacro-PC03"
+include ':app'
